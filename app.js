@@ -14,6 +14,11 @@
     res.send('Bienvenidos a launchx ')
 })
 
+app.get('/explorersInNode', (req, res) => {
+    const explorer = {name: "Explorer", msg:"Hello"};
+    res.send(explorer);
+})
+
 
  // Con esto inicializamos esta app
  app.listen(port, () => {
