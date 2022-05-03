@@ -1,22 +1,22 @@
 {
-  "name": "express_basic",
-  "version": "1.0.0",
-  "description": "Basic server express",
-  "main": "index.js",
-  "scripts": {
-    "start": "node apps.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dannramirez/express_basicLaunchX.git"
-  },
-  "author": "DannRamirez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dannramirez/express_basicLaunchX/issues"
-  },
-  "homepage": "https://github.com/dannramirez/express_basicLaunchX#readme",
-  "dependencies": {
-    "express": "^4.18.1"
-  }
+    "name": "express_basic",
+    "version": "1.0.0",
+    "description": "Basic server express",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dannramirez/express_basicLaunchX.git"
+    },
+    "author": "DannRamirez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dannramirez/express_basicLaunchX/issues"
+    },
+    "homepage": "https://github.com/dannramirez/express_basicLaunchX#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
 }
