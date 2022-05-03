@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dannramirez/express_basicLaunchX/issues"
   },
-  "homepage": "https://github.com/dannramirez/express_basicLaunchX#readme"
+  "homepage": "https://github.com/dannramirez/express_basicLaunchX#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
