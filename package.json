@@ -1,0 +1,19 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Basic server express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannramirez/express_basicLaunchX.git"
+  },
+  "author": "DannRamirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannramirez/express_basicLaunchX/issues"
+  },
+  "homepage": "https://github.com/dannramirez/express_basicLaunchX#readme"
+}
